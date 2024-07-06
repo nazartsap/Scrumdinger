@@ -19,6 +19,7 @@
 		0498560C2C2C428F00D8863D /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0498560B2C2C428F00D8863D /* TrailingIconLabelStyle.swift */; };
 		0498560E2C34875A00D8863D /* View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0498560D2C34875A00D8863D /* View.swift */; };
 		049856102C348CED00D8863D /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0498560F2C348CED00D8863D /* DetailView.swift */; };
+		04A26B662C3949F000E20369 /* DetrailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A26B652C3949F000E20369 /* DetrailEditView.swift */; };
 		04AE38B12C1796E2000877A0 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04AE38B02C1796E2000877A0 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
@@ -55,6 +56,7 @@
 		0498560B2C2C428F00D8863D /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		0498560D2C34875A00D8863D /* View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View.swift; sourceTree = "<group>"; };
 		0498560F2C348CED00D8863D /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		04A26B652C3949F000E20369 /* DetrailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetrailEditView.swift; sourceTree = "<group>"; };
 		04AE38B02C1796E2000877A0 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -149,6 +151,7 @@
 				04AE38B02C1796E2000877A0 /* CardView.swift */,
 				0498560D2C34875A00D8863D /* View.swift */,
 				0498560F2C348CED00D8863D /* DetailView.swift */,
+				04A26B652C3949F000E20369 /* DetrailEditView.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -286,6 +289,7 @@
 				04AE38B12C1796E2000877A0 /* CardView.swift in Sources */,
 				049856102C348CED00D8863D /* DetailView.swift in Sources */,
 				0498560C2C2C428F00D8863D /* TrailingIconLabelStyle.swift in Sources */,
+				04A26B662C3949F000E20369 /* DetrailEditView.swift in Sources */,
 				0498560E2C34875A00D8863D /* View.swift in Sources */,
 				040A307E2BFFDF3A00D57081 /* DailyScrum.swift in Sources */,
 				040A307C2BFFDA1200D57081 /* Theme.swift in Sources */,
